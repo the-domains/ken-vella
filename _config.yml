@@ -1,0 +1,28 @@
+name: Ken Vella
+favicon: null
+layout_spectrum: 0.19910814589820802
+typography_spectrum: 0.9292832789942622
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8922670893371105
+  lightness: 0.661818902939558
+  saturation: 0.5751881084870547
+  rhythmicContrast: 0.6784463233780116
+purpose: []
